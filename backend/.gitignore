@@ -1,0 +1,12 @@
+# 忽略 Python 虚拟环境
+venv/
+
+# 忽略模型文件（如果这些文件较大，不适合存入 Git）
+model/*.keras
+model/*.pkl
+
+# 其他常见忽略项
+__pycache__/
+*.log
+*.sqlite3
+.DS_Store
