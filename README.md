@@ -1,4 +1,4 @@
-# # Stock Prediction System
+# Stock Prediction System
 
 ## Project Overview
 
